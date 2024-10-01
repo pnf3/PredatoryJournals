@@ -69,7 +69,6 @@ List of predatory journals with proof of predatory intentions, and corresponding
 - Journal of Immunobiology    <immunobio@immunologyjournals.org>
 - Austin Otolaryngology (ISSN: 2473-0645) <otolaryngology@austinpublishinggroup.com>
 - International Symposium on Automation, Information and Computing (ISAIC 2020)   <isaic@confiswee.com>
-- Annals of Case Reports (ISSN 2574-7754) <jasminegreen@scilite.org>
 - Research Journal of Computer Science and Engineering - RJCSE    <natalie.stewart@raftpubs.com>
 - Traditional Medicine and Clinical Naturopathy   <tradmed@omicsonline.org>
 - Journal of Physics: Conference Series (JPCS)    <pmms2020@migcca.com>;<joy@info.migcca.com>
